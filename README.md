@@ -1,4 +1,4 @@
-# Spectral_Clustering
+# Spectral Clustering
 
 
 # The problem of identifying communities in a complex network.
